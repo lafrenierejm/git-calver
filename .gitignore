@@ -1,1 +1,6 @@
 /target
+
+# Nix
+/.direnv/
+/.pre-commit-config.yaml
+/result
